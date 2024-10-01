@@ -20,8 +20,10 @@
 
 - Melakukan perubahan pada ChildChrysna
 - Merge branch Child dan branch Parent menggunakan fast forward
+  ![image](https://github.com/user-attachments/assets/0bf334af-ee53-42a6-a25f-c8d11aa4aa01)
 
 menambahkan langkah-langkah dari ParentChrysna
+![image](https://github.com/user-attachments/assets/50f55730-831b-4320-aeb7-d986f4b798f2)
 
 
 >>>>>>> ChildChrysna
