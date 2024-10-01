@@ -13,4 +13,3 @@
 - git remote untuk ngepush update repo
 ![alt text](image-4.png)
 mem
-### Test fast forward from child
