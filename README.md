@@ -13,5 +13,3 @@
 ![image](https://github.com/user-attachments/assets/97bc9188-a391-43db-9bce-fe8d29220eb0)
 - git remote untuk ngepush update repo
 ![image](https://github.com/user-attachments/assets/443677c0-1418-409e-83c3-25d579ad6a88)
-mem
-### Test fast forward from child
