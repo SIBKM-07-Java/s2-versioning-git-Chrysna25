@@ -24,3 +24,8 @@ menambahkan langkah-langkah dari ParentChrysna
 ![image](https://github.com/user-attachments/assets/50f55730-831b-4320-aeb7-d986f4b798f2)
 
 
+## Three Way Merged from Child
+- Kita perlu mengclone hasil dari repository sebelumnya seperti gambar dibawah
+![alt text](image.png)
+- Mengecek Parent dan Child di repository 
+![alt text](image-1.png)
